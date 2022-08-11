@@ -19,3 +19,4 @@ Para extraer los followers de una cuenta específica, debemos usar este [codigo]
 ## Extraer Followings
 
  Para extraer los followings de varias cuentas, debemos usar este [codigo](https://github.com/samuelsoc/scraping_instagram/blob/main/extract_followingsIG_3.py).
+# scrap
